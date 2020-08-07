@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\mlcri\OneDrive\Documents\Desktop\C++\BookTutorial\GuessTheNumberV2.0\GuessTheNumberV2.0\Source.cpp(26,15): warning C4552: '+': result of expression not used
+C:\Users\mlcri\OneDrive\Documents\Desktop\C++\BookTutorial\GuessTheNumberV2.0\GuessTheNumberV2.0\Source.cpp(30,15): warning C4552: '-': result of expression not used
+  GuessTheNumberV2.0.vcxproj -> C:\Users\mlcri\OneDrive\Documents\Desktop\C++\BookTutorial\GuessTheNumberV2.0\Debug\GuessTheNumberV2.0.exe

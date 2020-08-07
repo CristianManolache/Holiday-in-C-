@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\mlcri\OneDrive\Documents\Desktop\C++\BookTutorial\GuessMyNumber\GuessMyNumber\Source.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\mlcri\OneDrive\Documents\Desktop\C++\BookTutorial\GuessMyNumber\GuessMyNumber\Source.cpp(16,7): warning C4101: 'again': unreferenced local variable
+  GuessMyNumber.vcxproj -> C:\Users\mlcri\OneDrive\Documents\Desktop\C++\BookTutorial\GuessMyNumber\Debug\GuessMyNumber.exe
